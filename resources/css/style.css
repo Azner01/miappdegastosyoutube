@@ -1,0 +1,45 @@
+
+.formulario{
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.tableFormat table{
+    margin: 10px auto;
+}
+
+th, td{
+    border:solid red 1px;
+    padding: 10px;
+}
+
+th{
+    background-color: azure;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.claseFormulario{
+    
+}
+
+div{
+    padding-top: 20px;
+}
+
+#botonEnvio{
+    font-size: 23px;
+}
+
+.formTitle{
+    padding-bottom: 50px;
+}
